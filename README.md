@@ -1,11 +1,12 @@
 # fivem player's gps system
 
-easy gps system using badblips and statebags. easy to convert, for any improvements dm me on discord cinquina#1795
+easy gps system using badblips and statebags. easy to convert, for any improvements dm me on discord cinquina#3412
 
 
 ## Authors
 
-- [@cinquina#1795](https://www.github.com/cinquina)
+- [@cinquina#3412](https://www.github.com/cinquina)
+- [discord server](https://www.discord.gg/yDV3JSqYVx)
 
 
 ## Acknowledgements
