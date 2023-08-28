@@ -5,10 +5,9 @@ easy gps system using badblips and statebags. easy to convert, for any improveme
 
 ## Authors
 
-- [@cinquina#3412](https://www.github.com/cinquina)
-- [discord server](https://www.discord.gg/yDV3JSqYVx)
+- [@culturaripaga](https://www.github.com/cinquina)
 
 
-## Acknowledgements
+## Dependencies
 
  - [badblips resource](https://github.com/rizzdev/badblips)
